@@ -1,0 +1,5 @@
+"homepage": "https://Neetuvx10.github.io/my-website",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
