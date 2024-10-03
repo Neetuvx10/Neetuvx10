@@ -1,0 +1,80 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header Styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+/* About Section */
+#about {
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Resume Section */
+#resume {
+    padding: 20px 0;
+    background-color: #eaeaea;
+}
+
+#resume h3 {
+    margin-top: 10px;
+}
+
+/* Projects Section */
+#projects {
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+#projects ul {
+    list-style-type: square;
+}
+
+#projects li {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
